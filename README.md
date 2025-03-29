@@ -2,11 +2,7 @@
 
 ## Requirements
 
-* Python 3.5 or higher
-* Numpy
-* Pandas
-* Matplotlib
-* Statsmodels
+R packages
 
 ## Dataset
 
